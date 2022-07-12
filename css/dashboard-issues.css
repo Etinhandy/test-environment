@@ -96,4 +96,8 @@ thead {
   .o-text {
     font-size: 0.9rem !important;
   }
+
+  .control-container {
+    height: 37rem !important;
+  }
 }
